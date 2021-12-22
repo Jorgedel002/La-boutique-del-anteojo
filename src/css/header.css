@@ -1,0 +1,50 @@
+.hamburger-react{
+    z-index: 200;
+    position: fixed !important;
+}
+
+.bm-overlay{
+    background: none;
+    background-color: #E20593;
+    top: 0;
+}
+
+.bm-menu-wrap{
+    top: 0;
+    left: 0;
+    padding-left: 15px;
+    background-color: #E20593;
+}
+
+.menu-item{
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    margin-top: 40px;
+}
+
+.bm-item-list{
+    margin-top: 80px;
+}
+
+.active{
+    transform: translateX(0) !important;
+}
+
+.link-menu{
+    display: block;
+    color: white;
+    text-decoration: none;
+    margin-top: 20px;
+    font-size: 25px;
+}
+
+.faUser{
+    text-decoration: none;
+}
+
+@media(min-width: 1020px){
+    .link-menu{
+        font-size: 1.5rem;
+    }
+}

@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Sunflower:wght@300;500;700&display=swap');
+.logo{
+    width: 100px;
+    margin-top: 15px;
+}
+
+.header{
+    display: none;
+}
+input{
+    border: none;
+    outline: none;
+    margin-top: 20px;
+    height: 35px;
+    border-radius: 50px;
+    background-repeat: no-repeat;
+    background-position-y: center;
+    background-position-x: 10px;
+    background-size: 20px;
+    box-shadow: 4px 4px 5px rgba(175, 175, 175, .8);
+    text-indent: 40px;
+}
+
+input::placeholder{
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.nombre{
+    background-image: url(../assets/icon/icons8-user-30.png); 
+}
+
+.email{
+    background-image: url(../assets/icon/icons8-email-64.png);
+}
+
+.numero{
+    background-image: url(../assets/icon/icons8-phone-48.png);
+}
+
+.contraseña{
+    background-image: url(../assets/icon/icons8-key-48.png);
+}
+
+.registrarme{
+    background: linear-gradient(to right, rgb(226,5,151), rgb(255,46,184));
+    color: white;
+    font-size: 16px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    margin-top: 100px;
+    height: 45px;
+    text-indent: 0;
+}
+
+.login{
+    color: #E20597;
+}
+
+.error{
+    position: absolute;
+    width: 95%;
+    bottom: 70px;
+    padding: 10px;
+    margin: 10px 0;
+    background-color: rgba(255, 0, 0, 0.658);
+    color: white;
+    font-size: bolder;
+    text-align: center;
+}

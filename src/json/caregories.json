@@ -1,0 +1,8 @@
+[
+    { "CategoryID": 1, "CategoryName": "Lentes de sol" },
+    { "CategoryID": 2, "CategoryName": "Acetato" },
+    { "CategoryID": 3, "CategoryName": "Metal" },
+    { "CategoryID": 4, "CategoryName": "Plastico" },
+    { "CategoryID": 5, "CategoryName": "TR90" },
+    { "CategoryID": 6, "CategoryName": "Usual" }
+]

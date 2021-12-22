@@ -1,0 +1,70 @@
+.acordion-container{
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1143px;
+}
+
+.acordion-item{
+    overflow: hidden;
+    margin-bottom: 10px;
+    width: 100%;
+}
+
+.acordion-button{
+    padding: 20px;
+    background-color: #FF9EF0;
+    border: none;
+    width: 100%;
+    color: white;
+    font-size: 19px;
+    cursor: pointer;
+}
+
+.acordion-button::before{
+    display: inline-block;
+    content: '';
+    height: 10px;
+    width: 10px;
+    margin-right: 12px;
+    border-bottom: 2px solid currentColor;
+    border-right: 2px solid currentColor;
+    transform: rotate(-45deg);
+}
+
+.acordion-button[aria-expanded="true"]::before,
+.acordion-button[aria-selected="true"]::before{
+    transform: rotate(45deg);
+}
+
+.acordion-panel{
+    border: none;
+    background-color: #FF9EF0;
+    padding: 15px;
+    width: 100%;
+}
+
+.acordion-text{
+    color: white;
+    padding: 10px;
+}
+
+b{
+    font-size: 22px;
+    margin-right: 3px;
+}
+
+.icon-question{
+    font-size: 30px;
+}
+
+.icon-whatsapp{
+    color: white;
+    font-size: 35px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+a{
+    text-decoration: none;
+}

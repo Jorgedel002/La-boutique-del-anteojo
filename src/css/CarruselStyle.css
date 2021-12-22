@@ -1,0 +1,43 @@
+.destacado-image{
+    width: 50%;
+    height: 80px;
+    object-fit: cover;
+}
+
+.faHeart{
+    color: white;
+    stroke: #E20593;
+    stroke-width: 25px;
+    font-size: 20px;
+}
+
+@media(min-width: 609px){
+    .destacado-image{
+        width: 80%;
+        height: 140px;
+    }
+}
+
+@media(min-width: 822px){
+    .destacado-image{
+        width: 80%;
+        height: 190px;
+    }
+    .faHeart{
+        font-size: 28px;
+    }
+    .nombre-producto{
+        font-size: 1.3rem;
+    }
+}
+
+@media(min-width: 1340px){
+    .destacado-image{
+        width: 50%;
+        height: 150px;
+    }
+    
+}
+.card-container{
+    margin: 0;
+}

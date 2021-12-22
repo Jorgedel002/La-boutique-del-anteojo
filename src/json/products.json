@@ -1,0 +1,12 @@
+[
+    { "ProductID": 1, "ProductName": "Lente de sol", "CategoryID": 1, "QuantityPerUnit":" 1 ", "UnitPrice": 7000, "UnitsInStock": 10, "Discontinued": false },
+    { "ProductID": 5, "ProductName": "Lente de sol", "CategoryID": 5, "QuantityPerUnit":" 1 ", "UnitPrice": 7500, "UnitsInStock": 5, "Discontinued": false },
+    { "ProductID": 8, "ProductName": "Lente de sol", "CategoryID": 8, "QuantityPerUnit":" 1 ", "UnitPrice": 5000, "UnitsInStock": 12, "Discontinued": false },
+    { "ProductID": 12, "ProductName": "Lente de sol", "CategoryID": 12, "QuantityPerUnit":" 1 ", "UnitPrice": 5500, "UnitsInStock": 15, "Discontinued": false },
+    { "ProductID": 15, "ProductName": "Lente de sol", "CategoryID": 15, "QuantityPerUnit":" 1 ", "UnitPrice": 7500, "UnitsInStock": 8, "Discontinued": false },
+    { "ProductID": 19, "ProductName": "Lente de acetato", "CategoryID": 19, "QuantityPerUnit":" 1 ", "UnitPrice": 3500, "UnitsInStock": 19, "Discontinued": false },
+    { "ProductID": 22, "ProductName": "Lente de acetato", "CategoryID": 22, "QuantityPerUnit":" 1 ", "UnitPrice": 4500, "UnitsInStock": 20, "Discontinued": false },
+    { "ProductID": 25, "ProductName": "Lente de acetato", "CategoryID": 25, "QuantityPerUnit":" 1 ", "UnitPrice": 5000, "UnitsInStock": 16, "Discontinued": false },
+    { "ProductID": 28, "ProductName": "Lente de acetato", "CategoryID": 28, "QuantityPerUnit":" 1 ", "UnitPrice": 5500, "UnitsInStock": 10, "Discontinued": false },
+    { "ProductID": 30, "ProductName": "Lente de acetato", "CategoryID": 30, "QuantityPerUnit":" 1 ", "UnitPrice": 3000, "UnitsInStock": 19, "Discontinued": false }
+]
