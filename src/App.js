@@ -25,7 +25,7 @@ function App() {
       <GlobalStyle/>
       <AuthProvider>
         <Router>
-          {window.location.pathname == "/login" || window.location.pathname == "/registro"  ?(
+          {window.location.pathname === "/login" || window.location.pathname === "/registro"  ? (
             <></>
           ):(
             <Header/> 
