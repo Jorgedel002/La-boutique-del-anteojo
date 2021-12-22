@@ -2,7 +2,7 @@
   "name": "laboutiquedelanteojo",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://jorgedel002.github.io",
+  "homepage": "http://jorgedel002.github.io/La-boutique-del-anteojo",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.36",
     "@fortawesome/free-brands-svg-icons": "^5.15.4",
